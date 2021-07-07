@@ -20,13 +20,13 @@ Referênte ao curso [1975 - Modelando Domínios Ricos](https://balta.io/cursos/m
 - SOLID
     - S -> Single Responsibility
     - O -> Open Close
-    - L
-    - I
-    - D
-
+    - L -> Liskov Substitution Principle
+    - I -> Interface Segregation Principle
+    - D -> Dependency Inversion
+    
 ## Aprofundar pesquisas
 
-- Para teste estudar Red, Green, Refactor
+- Testes Red, Green, Refactor
 - SPOF - Single Point of Failure
 - Corrupção de código
 - Clean Code
@@ -35,11 +35,13 @@ Referênte ao curso [1975 - Modelando Domínios Ricos](https://balta.io/cursos/m
 - Design by Contracts
 - Specification Pattern
 - SQRS
+- Fail Fast Validation
+- Repository Pattern
+- Handlers
 
 ## Material de apoio
 
 ### Livros
-
 
 - Clean Code - Robert C. Martin (Uncle Bob)
 - Clean Coder - Robert C. Martin (Uncle Bob)
