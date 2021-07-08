@@ -24,6 +24,8 @@ Referênte ao curso [1975 - Modelando Domínios Ricos](https://balta.io/cursos/m
     - I -> Interface Segregation Principle
     - D -> Dependency Inversion
     
+- [ ] Finalizar o projeto do curso e implementar os conhecimentos obtidos
+
 ## Aprofundar pesquisas
 
 - [ ] Testes Red, Green, Refactor
